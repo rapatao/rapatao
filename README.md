@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to my profile.
+
+I hope you enjoy it!
+
+#### 📫 Reach me at:
+
+- LinkedIn: [https://www.linkedin.com/in/rapatao/](https://www.linkedin.com/in/rapatao/)
+
+- Twitter: [@rapatao](https://twitter.com/rapatao/)
+
 <!--
 **rapatao/rapatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
