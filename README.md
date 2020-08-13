@@ -6,9 +6,11 @@ I hope you enjoy it!
 
 #### 📫 Reach me at:
 
-- LinkedIn: [https://www.linkedin.com/in/rapatao/](https://www.linkedin.com/in/rapatao/)
+- LinkedIn: [linkedin.com/in/rapatao](https://www.linkedin.com/in/rapatao/
 
 - Twitter: [@rapatao](https://twitter.com/rapatao/)
+
+- Website: [rapatao.com](https://www.rapatao.com/)
 
 <!--
 **rapatao/rapatao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
