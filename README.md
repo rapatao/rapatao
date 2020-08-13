@@ -6,7 +6,7 @@ I hope you enjoy it!
 
 #### 📫 Reach me at:
 
-- LinkedIn: [linkedin.com/in/rapatao](https://www.linkedin.com/in/rapatao/
+- LinkedIn: [linkedin.com/in/rapatao](https://www.linkedin.com/in/rapatao/)
 
 - Twitter: [@rapatao](https://twitter.com/rapatao/)
 
