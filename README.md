@@ -12,6 +12,7 @@ I hope you enjoy it!
 
 - Website: [rapatao.com](https://www.rapatao.com/)
 
+#### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapatao&layout=compact)
 
