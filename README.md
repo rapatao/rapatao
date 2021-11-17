@@ -2,7 +2,7 @@
 
 Welcome to my profile.
 
-I hope you enjoy it!
+Enjoy it!
 
 #### 📫 Reach me at:
 
@@ -16,4 +16,4 @@ I hope you enjoy it!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapatao&layout=compact)
 
-![Gihub stats](https://github-readme-stats.vercel.app/api?username=rapatao&show_icons=true)
+![Gihub stats](https://github-readme-stats.vercel.app/api?username=rapatao&show_icons=true&count_private=true)
