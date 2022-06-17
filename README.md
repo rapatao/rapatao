@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="avatar-circle.png" width="150px" alt="it's me!"/>
+  <img src="avatar-pixel.png" width="150px" alt="it's me!"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rapatao">
