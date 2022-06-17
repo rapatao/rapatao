@@ -1,19 +1,33 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="avatar-circle.png" width="150px" alt="it's me!"/>
+</div>
+<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rapatao">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Check my LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/rapatao">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Check my Twitter"/>
+  </a>
+  <a href="https://www.rapatao.com">
+    <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=hugo&logoColor=white" alt="Check my Website"/>
+  </a>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=rapatao&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
-Welcome to my profile.
+---
 
-Enjoy it!
+## Hi there 👋
 
-#### 📫 Reach me at:
+Welcome to my profile. 
 
-- LinkedIn: [linkedin.com/in/rapatao](https://www.linkedin.com/in/rapatao/)
+Here you will find some libraries that I've developed/published, projects to support my blog posts, used to learn different technologies and methodologies also public repos used in job applications.
 
-- Twitter: [@rapatao](https://twitter.com/rapatao/)
+Hope you enjoy!
 
-- Website: [rapatao.com](https://www.rapatao.com/)
+---
 
-#### Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapatao&layout=compact)
-
-![Gihub stats](https://github-readme-stats.vercel.app/api?username=rapatao&show_icons=true&count_private=true)
+<div id="stats" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rapatao&hide=contribs&count_private=true&show_icons=true&theme=nord" alt="GitHub stats"/>
+</div>
