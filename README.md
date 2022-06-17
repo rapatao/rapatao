@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="avatar-circle.png" width="150px" alt="it's me!"/>
 </div>
-<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rapatao">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Check my LinkedIn"/>
@@ -12,11 +11,10 @@
   <a href="https://www.rapatao.com">
     <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=hugo&logoColor=white" alt="Check my Website"/>
   </a>
-  <br>
+</div>
+<div id="badges-second" align="center">
   <img src="https://komarev.com/ghpvc/?username=rapatao&style=flat-square&color=blue" alt="Profile views"/>
 </div>
-
----
 
 ## Hi there 👋
 
