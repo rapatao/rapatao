@@ -26,6 +26,12 @@ Hope you enjoy!
 
 ---
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <div id="stats" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rapatao&hide=contribs&count_private=true&show_icons=true&theme=nord" alt="GitHub stats"/>
 </div>
