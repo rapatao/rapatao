@@ -28,6 +28,11 @@ Hope you enjoy!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [O que é uma CDN &lpar;Content Delivery Network&rpar;?](https://www.rapatao.com/pt/posts/2022-04/o-que-e-uma-cdn-content-delivery-network/)
+- [Load Balancing: O que é um balanceador de carga?](https://www.rapatao.com/pt/posts/2022-02/load-balancing-o-que-e-um-balanceador-de-carga/)
+- [Construindo testes com Kotlin, JUnit e MockK](https://www.rapatao.com/pt/posts/2022-01/construindo-testes-com-kotlin-junit-mockk/)
+- [Otimizando testes em aplicações com Spring Boot](https://www.rapatao.com/pt/posts/2021-06/otimizando-testes-em-aplicacoes-com-spring-boot/)
+- [Pensando em GraalVM? Devo escolher Quarkus ou Micronaut?](https://www.rapatao.com/pt/posts/2021-03/pensando-em-graalvm-devo-escolher-quarkus-ou-micronaut/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
