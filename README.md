@@ -31,8 +31,8 @@ Hope you enjoy!
 - [GnuPG: how to backup and restore your keys?](https://www.rapatao.com/posts/2022-07/gnupg-how-to-backup-and-restore-your-keys/)
 - [What is a CDN &lpar;Content Delivery Network&rpar;?](https://www.rapatao.com/posts/2022-04/what-is-a-cdn-cdn-content-delivery-network/)
 - [Load Balancing: What is a load balancer?](https://www.rapatao.com/posts/2022-02/load-balancing-what-is-a-load-balancer/)
-- [Construindo testes com Kotlin, JUnit e MockK](https://www.rapatao.com/pt/posts/2022-01/construindo-testes-com-kotlin-junit-mockk/)
-- [Otimizando testes em aplicações com Spring Boot](https://www.rapatao.com/pt/posts/2021-06/otimizando-testes-em-aplicacoes-com-spring-boot/)
+- [Build tests using Kotlin, JUnit and MockK](https://www.rapatao.com/posts/2022-01/build-tests-using-kotlin-junit-mockk/)
+- [Optimizing tests in Spring Boot applications](https://www.rapatao.com/posts/2021-06/optimizing-tests-in-spring-boot-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
