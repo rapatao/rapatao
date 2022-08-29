@@ -28,11 +28,11 @@ Hope you enjoy!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What are Flaky Tests and why fix them!](https://www.rapatao.com/pt/posts/2022-08/what-are-flaky-tests-and-why-fix-them/)
 - [GnuPG: how to backup and restore your keys?](https://www.rapatao.com/posts/2022-07/gnupg-how-to-backup-and-restore-your-keys/)
 - [What is a CDN &lpar;Content Delivery Network&rpar;?](https://www.rapatao.com/posts/2022-04/what-is-a-cdn-cdn-content-delivery-network/)
 - [Load Balancing: What is a load balancer?](https://www.rapatao.com/posts/2022-02/load-balancing-what-is-a-load-balancer/)
 - [Build tests using Kotlin, JUnit and MockK](https://www.rapatao.com/posts/2022-01/build-tests-using-kotlin-junit-mockk/)
-- [Optimizing tests in Spring Boot applications](https://www.rapatao.com/posts/2021-06/optimizing-tests-in-spring-boot-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
