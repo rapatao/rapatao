@@ -28,11 +28,11 @@ Hope you enjoy!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installing and using minikube](https://www.rapatao.com/posts/2023-07/installing-and-using-minikube/)
 - [What is a Reverse Proxy?](https://www.rapatao.com/posts/2022-10/what-is-a-reverse-proxy/)
 - [What are Flaky Tests and why fix them!](https://www.rapatao.com/posts/2022-08/what-are-flaky-tests-and-why-fix-them/)
 - [GnuPG: how to backup and restore your keys?](https://www.rapatao.com/posts/2022-07/gnupg-how-to-backup-and-restore-your-keys/)
 - [What is a CDN &lpar;Content Delivery Network&rpar;?](https://www.rapatao.com/posts/2022-04/what-is-a-cdn-cdn-content-delivery-network/)
-- [Load Balancing: What is a load balancer?](https://www.rapatao.com/posts/2022-02/load-balancing-what-is-a-load-balancer/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
