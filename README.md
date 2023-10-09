@@ -28,11 +28,11 @@ Hope you enjoy!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Contract-First VS Code-First API Documentation](https://www.rapatao.com/posts/2023-10/contract-first-vs-code-first-api-documentation/)
 - [CAP Theorem](https://www.rapatao.com/posts/2023-09/cap-theorem/)
 - [Installing and using minikube](https://www.rapatao.com/posts/2023-07/installing-and-using-minikube/)
 - [What is a Reverse Proxy?](https://www.rapatao.com/posts/2022-10/what-is-a-reverse-proxy/)
 - [What are Flaky Tests and why fix them!](https://www.rapatao.com/posts/2022-08/what-are-flaky-tests-and-why-fix-them/)
-- [GnuPG: how to backup and restore your keys?](https://www.rapatao.com/posts/2022-07/gnupg-how-to-backup-and-restore-your-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
