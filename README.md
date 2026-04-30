@@ -28,11 +28,11 @@ Hope you enjoy!
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Good API Documentation is Your Most Important &#39;Agent Prompt&#39;](https://www.rapatao.com/posts/2026-04/api-documentation-for-ai-agents/)
 - [Fixing memory issues while running tests on Spring Boot using Kafka](https://www.rapatao.com/posts/2024-10/fixing-memory-issues-while-running-tests-on-spring-boot-using-kafka/)
 - [Destructuring in Kotlin](https://www.rapatao.com/posts/2023-11/destructuring-in-kotlin/)
 - [Contract-First VS Code-First API Documentation](https://www.rapatao.com/posts/2023-10/contract-first-vs-code-first-api-documentation/)
 - [CAP Theorem](https://www.rapatao.com/posts/2023-09/cap-theorem/)
-- [Installing and using minikube](https://www.rapatao.com/posts/2023-07/installing-and-using-minikube/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
