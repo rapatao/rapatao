@@ -53,9 +53,9 @@ performance, and advocating for API-first architecture.
 ## Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
+- [TDD in the Agent Era: Why Test-Driven Development Matters More Than Ever](https://www.rapatao.com/posts/2026-06/tdd-in-the-agent-era/)
 - [BTManager: A Better Way to Manage macOS Background Tasks](https://www.rapatao.com/posts/2026-06/managing-macos-background-tasks-with-btmgr/)
 - [Decoupling Logic with Ruleset Engine: A Lightweight Approach for the JVM](https://www.rapatao.com/posts/2026-05/decoupling-logic-with-ruleset-engine/)
 - [Developing Code in the Era of Agents: The New Standard of Good Practices](https://www.rapatao.com/posts/2026-05/developing-code-in-the-era-of-agents/)
 - [Why Good API Documentation is Your Most Important &#39;Agent Prompt&#39;](https://www.rapatao.com/posts/2026-04/api-documentation-for-ai-agents/)
-- [Fixing memory issues while running tests on Spring Boot using Kafka](https://www.rapatao.com/posts/2024-10/fixing-memory-issues-while-running-tests-on-spring-boot-using-kafka/)
 <!-- BLOG-POST-LIST:END -->
