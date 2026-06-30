@@ -51,9 +51,9 @@ performance, and advocating for API-first architecture.
 ## Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
+- [md2: A Simple CLI to Turn Markdown into PDF, HTML, and Text](https://www.rapatao.com/posts/2026-06/introducing-md2-markdown-converter/)
 - [TDD in the Agent Era: Why Test-Driven Development Matters More Than Ever](https://www.rapatao.com/posts/2026-06/tdd-in-the-agent-era/)
 - [BTManager: A Better Way to Manage macOS Background Tasks](https://www.rapatao.com/posts/2026-06/managing-macos-background-tasks-with-btmgr/)
 - [Decoupling Logic with Ruleset Engine: A Lightweight Approach for the JVM](https://www.rapatao.com/posts/2026-05/decoupling-logic-with-ruleset-engine/)
 - [Developing Code in the Era of Agents: The New Standard of Good Practices](https://www.rapatao.com/posts/2026-05/developing-code-in-the-era-of-agents/)
-- [Why Good API Documentation is Your Most Important &#39;Agent Prompt&#39;](https://www.rapatao.com/posts/2026-04/api-documentation-for-ai-agents/)
 <!-- BLOG-POST-LIST:END -->
