@@ -35,20 +35,18 @@ performance, and advocating for API-first architecture.
 * **[Ruleset Engine](https://github.com/rapatao/ruleset-engine)**: A lightweight, extensible rules engine for
   high-performance expression evaluation. It enables developers to decouple complex business logic from core application
   code using native Kotlin or scriptable engines like GraalVM.
-* **[go-injector](https://github.com/rapatao/go-injector)**: A lightweight, efficient dependency injection container for
-  Go, designed to improve code modularity and testability by automating dependency orchestration.
+* **[pr-checker-go](https://github.com/rapatao/pr-checker-go)**: A standalone macOS menu bar application that monitors
+  GitHub Pull Requests, enhancing visibility and workflow efficiency across repositories.
 * **[SendGrid Mock](https://github.com/rapatao/sendgrid-mock)**: A development-focused service that simulates the
   SendGrid API. It provides a local, cost-effective environment to test email integrations and inspect payloads without
   hitting production APIs.
-* **[micronaut-wiremock](https://github.com/rapatao/micronaut-wiremock)**: An integration library that simplifies
-  WireMock configuration in Micronaut applications, offering seamless server initialization and declarative stubbing for
-  efficient integration testing.
-* **[pr-checker-go](https://github.com/rapatao/pr-checker-go)**: A developer-focused CLI tool that aggregates pending
-  Pull Requests into a menu-bar-friendly format (via XBar), enhancing visibility and workflow efficiency across
-  repositories.
+* **[md2](https://github.com/rapatao/md2)**: A fast, extensible Go CLI that converts Markdown files to PDF, HTML, and
+  other formats, using a two-stage rendering strategy with optional Mermaid diagram support.
 * **[aseprite-macos-build](https://github.com/rapatao/aseprite-macos-build)**: An automated build system that
   streamlines the compilation and native packaging of Aseprite on macOS, simplifying complex dependency management and
   build steps.
+* **[btmgr](https://github.com/rapatao/btmgr)**: A macOS GUI tool written in Go for managing background tasks, login
+  items, launch agents, and daemons — everything shown in System Settings → General → Login Items & Extensions.
 
 ## Latest Insights
 
