@@ -39,11 +39,9 @@ I am a Staff Software Engineer with a passion for designing resilient distribute
 ## Latest Insights
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Documenting Decisions with ADRs: Why Your Codebase Needs a Memory](https://www.rapatao.com/posts/2026-07/documenting-decisions-with-adrs/)
 - [md2: A Simple CLI to Turn Markdown into PDF, HTML, and Text](https://www.rapatao.com/posts/2026-06/introducing-md2-markdown-converter/)
 - [TDD in the Agent Era: Why Test-Driven Development Matters More Than Ever](https://www.rapatao.com/posts/2026-06/tdd-in-the-agent-era/)
 - [BTManager: A Better Way to Manage macOS Background Tasks](https://www.rapatao.com/posts/2026-06/managing-macos-background-tasks-with-btmgr/)
 - [Decoupling Logic with Ruleset Engine: A Lightweight Approach for the JVM](https://www.rapatao.com/posts/2026-05/decoupling-logic-with-ruleset-engine/)
-
 <!-- BLOG-POST-LIST:END -->
