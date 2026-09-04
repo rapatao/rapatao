@@ -14,6 +14,9 @@
     <a href="https://www.rapatao.com">
       <img src="https://img.shields.io/badge/Website-gray?style=for-the-badge&logo=hugo&logoColor=white" alt="Check my site: https://rapatao.com"/>
     </a>
+    <a href="https://github.com/rapatao/homebrew-tap">
+      <img src="https://img.shields.io/badge/Homebrew%20Tap-gray?style=for-the-badge&logo=homebrew&logoColor=white" alt="Install my apps: rapatao/tap"/>
+    </a>
   </div>
 </div>
 
@@ -34,6 +37,7 @@ I am a Staff Software Engineer with a passion for designing resilient distribute
 - **[SendGrid Mock](https://github.com/rapatao/sendgrid-mock)**: A development-focused service that simulates the SendGrid API. It provides a local, cost-effective environment to test email integrations and inspect payloads without hitting production APIs.
 - **[md2](https://github.com/rapatao/md2)**: A fast, extensible Go CLI that converts Markdown files to PDF, HTML, and other formats, using a two-stage rendering strategy with optional Mermaid diagram support.
 - **[aseprite-macos-build](https://github.com/rapatao/aseprite-macos-build)**: An automated build system that streamlines the compilation and native packaging of Aseprite on macOS, simplifying complex dependency management and build steps.
+- **[Virtual Display](https://github.com/rapatao/virtual-display)**: A macOS menu bar app that mirrors a resizable region of the screen into a standalone window, so any meeting app can share an arbitrary rectangle. Includes region presets, global shortcuts, a URL scheme for scripting, recording, and Lua plugins.
 - **[btmgr](https://github.com/rapatao/btmgr)**: A macOS GUI tool written in Go for managing background tasks, login items, launch agents, and daemons, everything shown in System Settings → General → Login Items & Extensions.
 
 ## Latest Insights
