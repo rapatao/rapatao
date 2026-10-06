@@ -22,13 +22,30 @@
 
 ## About Me
 
-I am a Staff Software Engineer with a passion for designing resilient distributed systems and building robust developer tools. My engineering philosophy centers on crafting clean, idiomatic code, decoupling complex business logic, and prioritizing rigorous testing strategies. I specialize in driving developer productivity, optimizing JVM/backend performance, and advocating for API-first architecture.
+I am a Staff Software Engineer, currently working as Software Engineering Manager at Wellhub, with 19 years of experience building backend and distributed systems. I combine hands-on engineering with technical and people leadership: designing resilient systems, building robust developer tools, and helping engineers grow.
+
+My engineering philosophy centers on clean, idiomatic code, decoupling complex business logic, rigorous testing strategies, and API-first architecture. I still write code every week, mostly the open source tools listed below, and write about engineering at [rapatao.com](https://www.rapatao.com).
 
 ## Technical Expertise
 
-- **Languages:** Kotlin, Java, Go.
-- **Core Competencies:** Distributed Systems, API Architecture & Documentation, Testing Strategies (Kafka, WireMock),
-  Infrastructure & Tooling, Build Automation.
+- **Languages:** Go, Kotlin, Java.
+- **Platform:** Kafka, Kubernetes, AWS, GCP, Spring Boot, PostgreSQL, Redis.
+- **Core Competencies:** Distributed Systems, Event-Driven Architecture, API Design & Documentation, Testing Strategies
+  (Kafka, WireMock), Infrastructure & Tooling, Build Automation.
+- **Leadership:** Technical direction and system design, decisions recorded as ADRs, code review and continuous delivery
+  processes, mentoring engineers on technical and soft skills.
+
+## Career Highlights
+
+- **Wellhub:** Software Engineering Manager leading two teams: one owns the notification platform (email, SMS,
+  WhatsApp, push, in-app), localization, session validation and OTP challenges; the other builds foundational features
+  for the native apps and web portals. Previously Senior Software Engineer on the same platform team.
+- **Mercado Livre:** Technical Lead and Senior Software Engineer on the supermarket product, including free shipping
+  rules for buyers.
+- **LBS Local (Apontador, Maplink):** Led the rewrite and migration of legacy systems to Spring 5, gRPC, GraphQL,
+  Elasticsearch and Kubernetes, and defined the code review and continuous delivery process.
+- **Consulting (ALTEN, Spread, BRQ):** Backend work for Bosch Security Systems, BNP Paribas Cardif and Ticket (Edenred),
+  including leading the architecture of a custom ETL platform.
 
 ## Featured Projects
 
